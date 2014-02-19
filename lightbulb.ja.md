@@ -1,10 +1,21 @@
-[How many software developers would it take to change a lightbulb?](http://tommorris.org/posts/8786)
+---
+layout: post
+title: "【翻訳】ソフトウェア開発者が何人いれば電球を替えられる？(2014年版)"
+date: 2013/10/03 00:00
+comments: true
+categories: translation
+---
 
+以下の文章は、[Tom Morris](https://github.com/tommorris) さんによる [How many software developers would it take to change a lightbulb?](http://tommorris.org/posts/8786) の日本語訳です。
+
+The following is the Japanese translation of [How many software developers would it take to change a lightbulb?](http://tommorris.org/posts/8786) by [Tom Morris](https://github.com/tommorris).
+
+--------------------------------------------
 <!--original
 How many software developers would it take to change a lightbulb?
 =================================================================
 -->
-電球を替えるにはソフトウェア開発者が何人いればいい？
+## ソフトウェア開発者が何人いれば電球を替えられる？
 
 <!--original
 One person to go to the shop to buy a lightbulb.
@@ -244,3 +255,6 @@ industry gossip blog.
 Finally, one person to fit the lightbulb.
 -->
 そしてついに最後の1人。電球を交換する。
+
+-------------
+初出公開：　2014年2月20日、　最終更新日： 2014年2月20日
