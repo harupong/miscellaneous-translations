@@ -159,9 +159,7 @@ hegemonic interaction model, just as smartphones allow the unbundling of
 Facebook's interaction models - SAAS changes Office and so do app
 stores. 
 -->
-これらは全て、解体と特化の賜物だ。Office ソフト(一般的に)とは、守備範囲が広く、高度で、かつ汎用的なものだ。多くの批判は「これだけの機能を使う人はほとんどいない」とその高度さに集中し、一方、その守備範囲の広さ、つまり表を作ったり文章を作るアプリがどれほど多様に用いられてるかということを見過ごしている(スクリーンショットを Word に貼り付けてメールで送る、といった、詳しい人からすれば誤用に思える使い方も含む)。数式を一切含まない Excel の使われ方というのも無視できないくらい多いと思っていて、例えばリストと表を印刷用に並べるだけの、DTP 用途に IDE を使うといった使い方もあるだろう。
-
-[translation here]
+これらは全て、解体と特化の賜物だ。Office ソフト(一般的に)とは、守備範囲が広く、高度で、かつ汎用的なものだ。多くの批判は「これだけの機能を使う人はほとんどいない」とその高度さに集中し、一方、その守備範囲の広さ、つまり表を作ったり文章を作るアプリがどれほど多様に用いられてるかということを見過ごしている(スクリーンショットを Word に貼り付けてメールで送る、といった、詳しい人からすれば誤用に思える使い方も含む)。数式を一切含まない Excel の使われ方というのも無視できないくらい多いと思っていて、例えばリストと表を印刷用に並べるだけの、DTP 的な用途に IDE を使うといった使い方もあるだろう。
 
 <!--original
 This brings us back to the mouse and keyboard that you ‘need for real
@@ -174,13 +172,12 @@ your time on the road meeting clients and replying to emails? Do you
 need a laptop, or a tablet? Do you need a tablet as well as a
 smartphone? Or a laptop, or phablet? Or both?
 -->
-
-[translation here]
+そうなってくると、やはりマウスやキーボードを使う、いわゆる「大事な仕事」というのは残ることになる。そう、財務モデルを作るのにマウスやキーボードは不可欠だし、経営指標の要約資料を作るのにだってそれらが必要だ。ただし、Excel や Powerpoint でやろうとすれば、という話ではあるけれど。というのも、その作業そのものは、あなたが取り組んでいるビジネスの目的を達成するために本当に必要なものと言えるだろうか？「エクセルファイルを作る」という作業そのものが仕事な人は極々少数だろう。そして、もしその他90％の時間を顧客訪問やメールの返信に使っているとしたらどうだろう？必要なのはラップトップ、それともタブレット？タブレットに加えてスマホも必要？ラップトップだけでいい？ファブレットがいい？それとも両方？
 
 <!--original
 Well, what do you want do with it? it’s all just glass - the only real
 different is the size and the input mechanism that suits your task. 
 -->
+で、結局「それ」を使って何がしたいのか、という話になる。それぞれの作業に合った操作方法やサイズという違いはあれど、言ってしまえばそれらは全部単なるガラスなわけで。
 
-[translation here]
 [46]: http://ben-evans.com/benedictevans/2014/2/26/tablets-pcs-and-office
