@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Tablets, PCs and Office"
+title: "タブレット か PC か。答えは Excel のみぞ知る"
 comments: true
 ---
 
 [Tablets, PCs and Office — Benedict Evans][46]
-
-1100Words
 
 <!--original
 [Tablets, PCs and Office](/benedictevans/2014/2/26/tablets-pcs-and-office) 
