@@ -2,35 +2,26 @@
 
 http://www.marco.org/2014/02/27/netflix-and-net-neutrality
 
+2800words
 
-[translation here]
-
-<!--original
-[![stratēchery](/wp-content/uploads/2013/03/stratechery_header@2x.png)](http://stratechery.com "stratēchery")
--->
-
-[translation here]
 
 <!--original
 [Netflix and Net Neutrality](http://stratechery.com/2014/netflix-net-neutrality/ "Netflix and Net Neutrality")
 --------------------------------------------------------------------------------------------------------------
 -->
-
-[translation here]
+[ネットの動画配信(Netflix)とネットワーク中立性](http://stratechery.com/2014/netflix-net-neutrality/ "Netflix and Net Neutrality")
+--------------------------------------------------------------------------------------------------------------
 
 <!--original
 Thursday, February 27, 2014 — [Tweet this
 article](http://twitter.com/home?status=Netflix%20and%20Net%20Neutrality%20@stratechery%20http://stratechery.com/2014/netflix-net-neutrality/ "Tweet this article")
 -->
 
-[translation here]
-
 <!--original
 *This article is by definition very US-centric, but the general
 principles apply broadly*
 -->
-
-[translation here]
+*以下の記事の内容はアメリカの事情に特化していますが、根底にある考え方は他の地域でも当てはまると思います。*
 
 <!--original
 For anyone remotely connected to technology, the idea that net
@@ -43,7 +34,7 @@ letter to
 shareholders](http://files.shareholder.com/downloads/NFLX/2913616374x0x720306/119321bc-89c3-4306-93ac-93c02da2354f/Q4%2013%20Letter%20to%20shareholders.pdf):
 -->
 
-[translation here]
+
 
 <!--original
 > Unfortunately, Verizon successfully challenged the U.S. net neutrality
@@ -583,15 +574,3 @@ Strategy. Technology. Pronunciation.
 © [stratēchery by Ben
 Thompson](http://stratechery.com/ "stratēchery by Ben Thompson") 2014
 -->
-
-<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-<script>
-$(function() {
-  $("*").contents().filter(function() {
-    return this.nodeType==8 && this.nodeValue.match(/^original/);
-  }).each(function(i, e) {
-    var tooltips = e.nodeValue.replace(/^original *[\n\r]|[\n\r]$/g, '');
-    $(this).prev().attr('title', tooltips);
-  });
-});
-</script>
