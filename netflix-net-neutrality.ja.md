@@ -24,16 +24,9 @@ principles apply broadly*
 *以下の記事の内容はアメリカの事情に特化していますが、根底にある考え方は他の地域でも当てはまると思います。*
 
 <!--original
-For anyone remotely connected to technology, the idea that net
-neutrality is an unabashed good seems incontrovertible, and one of the
-most popular examples of why it matters is Netflix. Consumers get a
-video competitor to their cable provider over said cable provider’s
-pipes; surely the end of net neutrality would mean the end of Netflix!
-For example, consider this section from Netflix CEO Reed Hastings’ [2014
-letter to
-shareholders](http://files.shareholder.com/downloads/NFLX/2913616374x0x720306/119321bc-89c3-4306-93ac-93c02da2354f/Q4%2013%20Letter%20to%20shareholders.pdf):
+For anyone remotely connected to technology, the idea that net neutrality is an unabashed good seems incontrovertible, and one of the most popular examples of why it matters is Netflix. Consumers get a video competitor to their cable provider over said cable provider’s pipes; surely the end of net neutrality would mean the end of Netflix!  For example, consider this section from Netflix CEO Reed Hastings’ [2014 letter to shareholders](http://files.shareholder.com/downloads/NFLX/2913616374x0x720306/119321bc-89c3-4306-93ac-93c02da2354f/Q4%2013%20Letter%20to%20shareholders.pdf):
 -->
-
+ネットワーク中立性は unabashed good だ、という考え方は、インターネット技術と少しでも関わりあいのある人には議論の余地がないように思えるでしょう。そのネットワーク中立性の、重要性を示す一番の例が Netflix です。Netflix 利用者はケーブルテレビ会社の回線を使って、ケーブルテレビ会社の競合である Netflix が提供するビデオを見ています。ネットワーク中立性の死は Netflix の死をも意味するのです！その具体例として、Netflix CEO の Reed Hastings が今年の初めにシェアホルダー宛に出した[手紙](http://files.shareholder.com/downloads/NFLX/2913616374x0x720306/119321bc-89c3-4306-93ac-93c02da2354f/Q4%2013%20Letter%20to%20shareholders.pdf)の内容を見てみましょう。
 
 
 <!--original
@@ -45,20 +38,12 @@ shareholders](http://files.shareholder.com/downloads/NFLX/2913616374x0x720306/11
 > some ISP, we would vigorously protest and encourage our members to
 > demand the open Internet they are paying their ISP to deliver.
 -->
-
-[translation here]
+> 残念ながら、アメリカにおけるネットワーク中立性に対する Verizon の異議申し立てが通ってしまいました。これにより、原則として国内の ISP は、Netflix 会員が Netflix で見ようとした動画の配信を合法的に妨げることができることになります。これは、ISP と Netflix が共同で提供している価値を引き下げるものです。意図としては、それを避けるために Netflix がもっと手数料を ISP に払うようになればいい、ということかもしれません。仮にこのような極めてひどい仮説が現実になるならば、我々は大いに抗議しますし、会員の皆さんには「我々がそのためにお金を払っている、開かれたインターネットを返すよう ISP に求めましょう」とお願いすることでしょう。
 
 <!--original
-And yet, just last week, Netflix – without much protest – did exactly
-what Hastings described: they [paid
-Comcast](http://online.wsj.com/news/articles/SB10001424052702304834704579401071892041790?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304834704579401071892041790.html&fpid=2,7,121,122,201,401,641,1009)
-to stop the degradation of Netflix’s services, and are expected to reach
-a deal with Verizon and other ISPs soon. The stock market promptly
-punished Netflix, sending the stock down 3.4 percent the day after the
-announcement.
+And yet, just last week, Netflix – without much protest – did exactly what Hastings described: they [paid Comcast](http://online.wsj.com/news/articles/SB10001424052702304834704579401071892041790?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304834704579401071892041790.html&fpid=2,7,121,122,201,401,641,1009) to stop the degradation of Netflix’s services, and are expected to reach a deal with Verizon and other ISPs soon. The stock market promptly punished Netflix, sending the stock down 3.4 percent the day after the announcement.
 -->
-
-[translation here]
+しかしながら、つい先週、特段の抗議もせず、Netflix は Hastings が語った通りのことを実行しました。彼らは [Comcast に手数料を払い](http://online.wsj.com/news/articles/SB10001424052702304834704579401071892041790?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304834704579401071892041790.html&fpid=2,7,121,122,201,401,641,1009)、Netflix のサービスに Comcast がに課している制限を解除してもらったのです。Verizon、及びいくつかの ISP でも、同じような交渉がまもなく合意に至ると見られています。株式市場はこれに適切に反応し、Netflix の株価は上述のニュース発表の翌日3.4％下落しました。
 
 <!--original
 Oh, wait, never mind: the stock was **up** 3.4 percent, [hitting an
@@ -69,21 +54,18 @@ but Wall Street is not stupid: this is a great deal for Netflix, a
 company who has every incentive to *not* support true, end-to-end net
 neutrality.
 -->
-
-[translation here]
+おっと失礼、今のは忘れてください。株価は3.4％**上がり**、[過去最高](http://www.mercurynews.com/business/ci_25216762/comcast-deal-sends-netflix-record-highs-verizon-may)の447ドルを記録したんでした。テック業界のウォッチャーたちの思惑とは真反対かもしれませんが、ウォールストリートの目は節穴じゃありませんよ。エンドツーエンドでのネットワーク中立性を支持する理由を**一切持たない**企業である Netflix にとって、この合意は素晴らしいものなのです。
 
 <!--original
 #### Defining Net Neutrality
 -->
-
-[translation here]
+## ネットワーク中立性とは？
 
 <!--original
 The first problem with the net neutrality debate is that there are three
 competing definitions:
 -->
-
-[translation here]
+ネットワーク中立性に関する議論でまず問題になるのが、3つの相反する定義の存在です。
 
 <!--original
 -   **The public definition** – For most people, particularly those of
@@ -92,27 +74,13 @@ competing definitions:
     YouTube or PornHub or the New York Times is treated and priced the
     exact same from server to client and back again.
 -->
-
-[translation here]
+-   **The public definition** – ネットワーク中立性というのは、大半の人、特にテック業界に身を置く我々のような者にとっては、パケットが発信元から受信先までの経路で一切区別されない、ということを指します。パケットが Netflix からのものであれ、YouTube や PronHub やニューヨークタイムズからのものであれ、サーバーとクライアントの間を行き来する間は同じように取り扱われ、かつ課金される、ということです。
 
 <!--original
 -   **The legal definition** – The FCC’s [Open Internet
-    rules](http://www.fcc.gov/guides/open-internet), which were ruled as
-    [overreaching](http://www.bloomberg.com/news/2014-01-14/verizon-wins-net-neutrality-court-ruling-against-fcc.html)
-    by the U.S. Court of Appeals in Washington, yet still apply to
-    Comcast due to an agreement they signed as part of their acquisition
-    of NBC Universal, only ever applied to traffic *within* an ISP’s
-    network; in other words, once data is within Comcast or Verizon’s
-    network, they can’t discriminate, delivering some data faster or
-    slower. The Netflix/Comcast deal, on the other hand, is about
-    peering: the point at which data enters the Comcast network (there
-    is a useful overview of peering available
-    [here](http://www.btigresearch.com/2014/02/11/forget-net-neutrality-peering-and-interconnection-set-to-be-the-internet-issue-of-2014/#ixzz2tEtvJnuH)).
-    This is not (and never was) covered by net neutrality, as many geeks
-    are now learning to their dismay.
+    rules](http://www.fcc.gov/guides/open-internet), which were ruled as [overreaching](http://www.bloomberg.com/news/2014-01-14/verizon-wins-net-neutrality-court-ruling-against-fcc.html) by the U.S. Court of Appeals in Washington, yet still apply to Comcast due to an agreement they signed as part of their acquisition of NBC Universal, only ever applied to traffic *within* an ISP’s network; in other words, once data is within Comcast or Verizon’s network, they can’t discriminate, delivering some data faster or slower. The Netflix/Comcast deal, on the other hand, is about peering: the point at which data enters the Comcast network (there is a useful overview of peering available [here](http://www.btigresearch.com/2014/02/11/forget-net-neutrality-peering-and-interconnection-set-to-be-the-internet-issue-of-2014/#ixzz2tEtvJnuH)).  This is not (and never was) covered by net neutrality, as many geeks are now learning to their dismay.
 -->
-
-[translation here]
+-   **The legal definition** – FCC の [中立性規則](http://www.fcc.gov/guides/open-internet) は、[行き過ぎである](http://www.bloomberg.com/news/2014-01-14/verizon-wins-net-neutrality-court-ruling-against-fcc.html)として米連邦控訴裁判所によって無効判決が下されましたが、NBC Universal 買収時の合意事項の一環として Comcast には適用されたままになっています。ただし、その規則自体は ISP ネットワーク*内*の通信にのみ適用されてきました。すなわち、一度データが Comcast や Verizon のネットワークに入ってしまえば、優先したり制限をかけたりするために区別することができなくなる、ということです。一方、Netflix/Comcast の合意は、Comcast のネットワークにデータが入る入口、ピアリングに関するものでした (ピアリングの詳細は[ここ](http://www.btigresearch.com/2014/02/11/forget-net-neutrality-peering-and-interconnection-set-to-be-the-internet-issue-of-2014/#ixzz2tEtvJnuH)を参照してください。)。ピアリングは、これまでも現在も、ネットワーク中立性の範囲には含まれておらず、ギークたちはそれを知ってがっかりしているわけです。
 
 <!--original
 -   **The Netflix definition** – Netflix has a subtly different view,
