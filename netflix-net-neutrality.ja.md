@@ -80,7 +80,7 @@ competing definitions:
 -   **The legal definition** – The FCC’s [Open Internet
     rules](http://www.fcc.gov/guides/open-internet), which were ruled as [overreaching](http://www.bloomberg.com/news/2014-01-14/verizon-wins-net-neutrality-court-ruling-against-fcc.html) by the U.S. Court of Appeals in Washington, yet still apply to Comcast due to an agreement they signed as part of their acquisition of NBC Universal, only ever applied to traffic *within* an ISP’s network; in other words, once data is within Comcast or Verizon’s network, they can’t discriminate, delivering some data faster or slower. The Netflix/Comcast deal, on the other hand, is about peering: the point at which data enters the Comcast network (there is a useful overview of peering available [here](http://www.btigresearch.com/2014/02/11/forget-net-neutrality-peering-and-interconnection-set-to-be-the-internet-issue-of-2014/#ixzz2tEtvJnuH)).  This is not (and never was) covered by net neutrality, as many geeks are now learning to their dismay.
 -->
--   **The legal definition** – FCC の [中立性規則](http://www.fcc.gov/guides/open-internet) は、[行き過ぎである](http://www.bloomberg.com/news/2014-01-14/verizon-wins-net-neutrality-court-ruling-against-fcc.html)として米連邦控訴裁判所によって無効判決が下されましたが、NBC Universal 買収時の合意事項の一環として Comcast には適用されたままになっています。ただし、その規則自体は ISP ネットワーク*内*の通信にのみ適用されてきました。すなわち、一度データが Comcast や Verizon のネットワークに入ってしまえば、優先したり制限をかけたりするために区別することができなくなる、ということです。一方、Netflix/Comcast の合意は、Comcast のネットワークにデータが入る入口、ピアリングに関するものでした (ピアリングの詳細は[ここ](http://www.btigresearch.com/2014/02/11/forget-net-neutrality-peering-and-interconnection-set-to-be-the-internet-issue-of-2014/#ixzz2tEtvJnuH)を参照してください。)。ピアリングは、これまでも現在も、ネットワーク中立性の範囲には含まれておらず、ギークたちはそれを知ってがっかりしているわけです。
+-   **The legal definition** – FCC の [中立性規則](http://www.fcc.gov/guides/open-internet) は、[行き過ぎである](http://www.bloomberg.com/news/2014-01-14/verizon-wins-net-neutrality-court-ruling-against-fcc.html)として米連邦控訴裁判所によって無効判決が下されましたが、NBC Universal 買収時の合意事項の一環として Comcast には適用されたままになっています。ただし、その規則自体は ISP ネットワーク*内*の通信にのみ適用されてきました。すなわち、一度データが Comcast や Verizon のネットワークに入ってしまえば、優先したり制限をかけたりするために区別することができなくなる、ということです。一方、Netflix/Comcast の合意は、Comcast のネットワークにデータが入る入口、ピアリングに関するものでした (ピアリングの詳細は[ここ](http://www.btigresearch.com/2014/02/11/forget-net-neutrality-peering-and-interconnection-set-to-be-the-internet-issue-of-2014/#ixzz2tEtvJnuH)を参照してください。)。ピアリングは、今日に至るまでネットワーク中立性の範囲には含まれておらず、ギークたちはそれを知ってがっかりしているわけです。
 
 <!--original
 -   **The Netflix definition** – Netflix has a subtly different view,
@@ -88,71 +88,58 @@ competing definitions:
     post](https://www.facebook.com/reed1960/posts/10150706947044584) two
     years ago:
 -->
-
-[translation here]
-
 <!--original
     > Comcast no longer following net neutrality principles.
     >
     > Comcast should apply caps equally, or not at all.
     >
-    > I spent the weekend enjoying four good internet video apps on my
-    > Xbox: Netflix, HBO GO, Xfinity, and Hulu.
+    > I spent the weekend enjoying four good internet video apps on my > Xbox: Netflix, HBO GO, Xfinity, and Hulu.
     >
-    > When I watch video on my Xbox from three of these four apps, it
-    > counts against my Comcast internet cap. When I watch through
-    > Comcast’s Xfinity app, however, it does not count against my
-    > Comcast internet cap.
+    > When I watch video on my Xbox from three of these four apps, it > counts against my Comcast internet cap. When I watch through > Comcast’s Xfinity app, however, it does not count against my > Comcast internet cap.
     >
-    > For example, if I watch last night’s SNL episode on my Xbox
-    > through the Hulu app, it eats up about one gigabyte of my cap, but
-    > if I watch that same episode through the Xfinity Xbox app, it
-    > doesn’t use up my cap at all.
+    > For example, if I watch last night’s SNL episode on my Xbox > through the Hulu app, it eats up about one gigabyte of my cap, but > if I watch that same episode through the Xfinity Xbox app, it > doesn’t use up my cap at all.
     >
-    > The same device, the same IP address, the same wifi, the same
-    > internet connection, but totally different cap treatment.
+    > The same device, the same IP address, the same wifi, the same > internet connection, but totally different cap treatment.
     >
     > In what way is this neutral?
 -->
-
-[translation here]
-
 <!--original
-    What Netflix is most concerned about from a non-discrimination
-    standpoint [are broadband
-    caps](http://apps.fcc.gov/ecfs/document/view?id=7021917119), and,
-    more broadly, usage-based broadband pricing. It’s not that their
-    position differs on a point-by-point basis from most net neutrality
-    advocates; rather, the priorities are different.
+    What Netflix is most concerned about from a non-discrimination standpoint [are broadband caps](http://apps.fcc.gov/ecfs/document/view?id=7021917119), and, more broadly, usage-based broadband pricing. It’s not that their position differs on a point-by-point basis from most net neutrality advocates; rather, the priorities are different.
 -->
 
-[translation here]
+-   **The Netflix definition** – Netflix は少し違った見方をしていて、Reed Hastings 自身が2年前に [Facebook に投稿した内容](https://www.facebook.com/reed1960/posts/10150706947044584)にその違いを見て取ることができます。
+
+    > Comcast はもはやネットワーク中立性原則に従っていない。
+
+    > Comcast は等しく制限をかけるか、もしくは何もしないべきだ。
+
+    > この週末、僕は Xbox で使える Netflix、HBO GO、Xfinity、Hulu の4つのアプリを使って、ネット配信の動画を見て楽しい時間を過ごした。
+
+    > 上記4つのうち3つのアプリで動画を見ると、Comcast が課すデータ使用量制限枠に加算される。けれど、Comcast が提供する Xfinity のアプリを使って同じ動画を見ると、それはデータ使用量制限枠には加算されない。
+
+    > 例えば、仮に昨日の Saturda Night Live を Xbox 上の Hulu アプリ経由で見たとすると、データ使用量制限枠から1GBを使ってしまうけど、同じものを Xbox 上の Xfinity アプリ経由で見たとすると、それはとデータ使用量制限枠を一切使わない、ということだ。
+
+    > 同じデバイス、同じ IP アドレス、同じ wifi、同じインターネット回線。なのにデータ使用量制限の扱いは全く違う。
+
+    > これのどこが中立なんだろう？
+
+    不当差別禁止の観点からすると、Netflix にとって一番気がかりなのは [ブロードバンド回線の利用制限](http://apps.fcc.gov/ecfs/document/view?id=7021917119)、より広義に言えば、従量課金制のブロードバンド回線、ということになります。Netflix のスタンスは、ネットワーク中立性推進派と個別の論点では隔たりはなく、優先順位が違うだけと言えます。 
 
 <!--original
 #### Why the Comcast Agreement is Good for Netflix
 -->
-
-[translation here]
+## Comcast との合意が Netflix に好都合な理由
 
 <!--original
 This deal is in many ways a win-win for Netflix: they are likely paying
 less for better quality.
 -->
-
-[translation here]
+上述した Comcast との合意は、Netflix にとって多くの点で Win-Win です。彼らはより良いものを、より安く手に入れられるようになるでしょう。
 
 <!--original
-Previously Netflix paid backbone providers such as Cogent for transit;
-it was then Cogent’s responsibility to interface with last mile provides
-such as Comcast or Verizon. Cogent [made a lot of
-noise](http://arstechnica.com/information-technology/2014/02/netflix-packets-being-dropped-every-day-because-verizon-wants-more-money/)
-about Comcast and other ISPs wanting to get paid on both sides – by
-customers for Internet access, and Cogent for peering agreements – but
-the truth is Cogent was just as duplicitous: they wanted to be paid by
-Netflix on one side, and effectively subsidized by ISPs on the other.
+Previously Netflix paid backbone providers such as Cogent for transit; it was then Cogent’s responsibility to interface with last mile provides such as Comcast or Verizon. Cogent [made a lot of noise](http://arstechnica.com/information-technology/2014/02/netflix-packets-being-dropped-every-day-because-verizon-wants-more-money/) about Comcast and other ISPs wanting to get paid on both sides – by customers for Internet access, and Cogent for peering agreements – but the truth is Cogent was just as guplicitous: they wanted to be paid by Netflix on one side, and effectively subsidized by ISPs on the other.
 -->
-
-[translation here]
+これまで、バックボーン回線事業者である Cogent のような会社に Netflix はトランジット費用を支払ってきました。そして、ラストマイル、足回り回線の事業者である Comcast や Verizon との接続は、Cogent の責任範囲になっていました。そのような状況から Cogent は、Comcast などの ISP が消費者のインターネット回線利用とバックボーン回線事業者とのピアリング契約の双方から利益を得ようとしている、として[一騒動起こした](http://arstechnica.com/information-technology/2014/02/netflix-packets-being-dropped-every-day-because-verizon-wants-more-money/)わけですが、実際のところ Cogent は二枚舌を使っていた、と言えます。Cogent は、Netflix からの売り上げを狙いつつ、ISP から事実上の支援をも受けようとしていたからです。 
 
 <!--original
 Free peering agreements between Internet providers were premised on the
@@ -165,58 +152,28 @@ not at all consistent with such previous agreements: Cogent was not
 carrying an in-kind amount of traffic in exchange for the traffic they
 were dumping onto ISPs.
 -->
-
-[translation here]
-
-<!--original
-As an analogy, suppose my friend Bob and I agreed to watch the other’s
-dog in the event of a trip or vacation. We both travel about three weeks
-of the year, so while I have to watch Bob’s dog for three weeks, he
-watches mine for three weeks as well. While the specific amount of
-travel may vary year-by-year, it all evens out in the end, and we’re
-both happy. A few years later, though, I take a job as a consultant, and
-am suddenly traveling 30 weeks a year. Wouldn’t it be unfair for me to
-insist that Bob hold to the terms of our agreement, even though it
-entails him watching my dog 27 weeks more than I watch his? Yet that is
-exactly what Cogent was demanding for direct access to ISPs’ networks,
-and the ISPs in turn demanded compensation (keep in mind, Netflix has
-*always* been free to use the open Internet to reach customers; they
-simply find the performance unacceptable and wants shortcuts into ISP
-networks).
--->
-
-[translation here]
+インターネット回線事業者間の無償ピアリング契約というのは、トラフィックは内向き外向きでだいたい同じ量が流れるので、ピアリング契約を結んでもコスト増には繋がらない、という発想を前提にしていました。しかし、Netflix がその等式を変えてしまいました。Netflix は全米のインターネットトラフィックの30％もの量を、特定の片方向の通信(Cogent のバックボーン内)に集めてしまったのです。その結果、Cogent が無償ピアリングを継続しようとしても、契約内容が成り立たなくなってしまいます。つまり、Cogent から ISP に向けて出ていく膨大な外向きのトラフィックが、ISP から Cogent に上がってくる内向きのトラフィックと釣り合わなくなったのです。
 
 <!--original
-With this deal, Netflix has effectively cut out the middleman Cogent,
-and is sending traffic directly from their servers onto Comcast’s
-network. Not only will this mean better quality for Netflix customers on
-Comcast, but it also raises the barrier of entry for potential Netflix
-competitors. Netflix currently has unique leverage over Comcast due to
-Comcast’s proposed merger with Time Warner, which, combined with their
-brand name and favorability amongst customers and regulators likely
-meant they got a [great
-deal](http://variety.com/2014/digital/news/why-netflix-is-actually-the-big-winner-in-the-comcast-bandwidth-deal-1201118421/);
-future Netflix competitors, forced to go over the open Internet or rely
-on providers like Cogent will be at both a cost and quality
-disadvantage.
--->
-
-[translation here]
+As an analogy, suppose my friend Bob and I agreed to watch the other’s dog in the event of a trip or vacation. We both travel about three weeks of the year, so while I have to watch Bob’s dog for three weeks, he watches mine for three weeks as well. While the specific amount of travel may vary year-by-year, it all evens out in the end, and we’re both happy. A few years later, though, I take a job as a consultant, and am suddenly traveling 30 weeks a year. Wouldn’t it be unfair for me to insist that Bob hold to the terms of our agreement, even though it entails him watching my dog 27 weeks more than I watch his? Yet that is exactly what Cogent was demanding for direct access to ISPs’ networks, and the ISPs in turn demanded compensation (keep in mind, Netflix has *always* been free to use the open Internet to reach customers; they simply find the performance unacceptable and wants shortcuts into ISP networks).
+--
+つまり、例えば、私と友だちのボブが、旅行や休暇の際はお互いが飼っている犬の面倒を見合うことにしよう、という約束をしたとします。どちらも年に3週間ほど旅行に出かけるので、ボブと私はそれぞれ相手の犬を3週間ほど面倒を見ることになります。年によって旅行日数は違ってきますが結局同じくらいになるので、私たちはお互い満足していました。ところが、数年後、私がコンサルタントとして働くようになり、年に30週間ほど出張するようになってしまいました。ここで、ボブが27週多く相手の犬の面倒を見ることになるにも関わらず、上述の約束を守るよう私がボブに要求するのは不公平ではないでしょうか？とはいえ、これこそがまさに Cogent が ISP のネットワークへの接続の対価として要求していたものだったのです。そしてまた ISP も、その見返りとして支払いを求めていました。
 
 <!--original
-Most importantly, though, Netflix has to be thrilled that *Netflix* –
-not end-users – is paying for better Netflix video, shrouding the extent
-to which end-users are subsidizing Netflix.
+With this deal, Netflix has effectively cut out the middleman Cogent, and is sending traffic directly from their servers onto Comcast’s network. Not only will this mean better quality for Netflix customers on Comcast, but it also raises the barrier of entry for potential Netflix competitors. Netflix currently has unique leverage over Comcast due to Comcast’s proposed merger with Time Warner, which, combined with their brand name and favorability amongst customers and regulators likely meant they got a [great deal](http://variety.com/2014/digital/news/why-netflix-is-actually-the-big-winner-in-the-comcast-bandwidth-deal-1201118421/); future Netflix competitors, forced to go over the open Internet or rely on providers like Cogent will be at both a cost and quality disadvantage.
+-->
+この Comcast との合意により、Netflix は中間業者である Cogent を省き、自社のサーバーから Comcast のネットワークに直接トラフィックを流せるようになりました。これは、Comcast 経由で動画を見ている Netflix ユーザーにとって動画配信環境が向上するということだけでなく、Netflix の競合他社にとって参入障壁が上がることをも意味しています。というのも、Netflix は Comcast に対して他者にはない影響力があるからです。
+
+
+<!--original
+Most importantly, though, Netflix has to be thrilled that *Netflix* – not end-users – is paying for better Netflix video, shrouding the extent to which end-users are subsidizing Netflix.
 -->
 
-[translation here]
 
 <!--original
 #### Who Pays for Broadband?
 -->
-
-[translation here]
+## ブロードバンドにお金を出しているのは誰？
 
 <!--original
 There’s no question, at least in my mind, that broadband is just as much
@@ -226,27 +183,18 @@ paved roads, etc. And, like said utilities, broadband lends itself to a
 cost of capital for building out a network are so great that the
 economics demand a single provider.
 -->
-
-[translation here]
-
-<!--original
-The primary way to deal with natural monopolies is to either have said
-service provided by the government or provided by a private firm that is
-heavily regulated with strict requirements about widespread access
-combined with (relatively) high prices. This is indeed the case with
-electricity, water, sewage, and
-roads.^[1](#footnote_0_696 "Problems with these models arise when pricing becomes unregulated, or not included at all")^
--->
-
-[translation here]
+ブロードバンドが電気、上下水道、道路と同様日常生活において必需品になってきていることには、少なくとも私のなかでは、疑いの余地はありません。そして、上述のライフラインのように、ブロードバンドも[自然独占](http://en.wikipedia.org/wiki/Natural_monopoly)に適しているのです。つまり、ブロードバンドネットワークを構築するには膨大な費用がかかるため、経済合理性の観点から事業者は1つであることが求められるのです。
 
 <!--original
-The problem with regulating broadband in this way, though, is that the
-definition of acceptable broadband is much more of a moving target. As
-Marc Andreessen memorably put it on Twitter:
+The primary way to deal with natural monopolies is to either have said service provided by the government or provided by a private firm that is heavily regulated with strict requirements about widespread access combined with (relatively) high prices. This is indeed the case with electricity, water, sewage, and roads.^[1](#footnote_0_696 "Problems with these models arise when pricing becomes unregulated, or not included at all")^
 -->
+自然独占に至る主な方法は、該当のサービスを政府が提供するか、広範囲へのサービス提供に関する条件などで厳しく規制された私企業が(ある程度)高いお金をもらって提供するか、のいずれかです。電気、上下水道、道路などはまさにこれが当てはまります[^01]。
 
-[translation here]
+
+<!--original
+The problem with regulating broadband in this way, though, is that the definition of acceptable broadband is much more of a moving target. As Marc Andreessen memorably put it on Twitter:
+-->
+ただし、自然独占方式でブロードバンドを規制すると問題になるのが、「使えるブロードバンド」というものの定義を定められない、という点にあります。この点に関しては、Marc Andreessen が Twitter に書き込んだ内容が分かりやすいでしょう。
 
 <!--original
 > [@mattyglesias](https://twitter.com/mattyglesias)
@@ -257,8 +205,11 @@ Marc Andreessen memorably put it on Twitter:
 > — Marc Andreessen (@pmarca) [February 23,
 > 2014](https://twitter.com/pmarca/statuses/437683055629570048)
 -->
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/mattyglesias">@mattyglesias</a> <a href="https://twitter.com/binarybits">@binarybits</a> Because sewers and electricity are far more static markets than broadband. You don&#39;t shit 10x as much every 3 yrs.</p>&mdash; Marc Andreessen (@pmarca) <a href="https://twitter.com/pmarca/statuses/437683055629570048">February 23, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[translation here]
+> それは、上限水道や電気がブロードバンドよりもずっと変化の少ない市場だからだよ。うんこの量は3年ごとに倍になったりしないし。  
+(訳注：ブロードバンドも水道のように規制付きの自然独占にしてしまえばいい。下水道と何が違うの？という問いに対し) 
 
 <!--original
 Remember, the United States is a country where one of the two major
@@ -445,100 +396,4 @@ are ultimately paying the price.
 4.  NIMBY = Not In My BackYard [↩](#identifier_3_696)
 -->
 
-[translation here]
-
-<!--original
-*[Tweet this
-article](http://twitter.com/home?status=Netflix%20and%20Net%20Neutrality%20@stratechery%20http://stratechery.com/2014/netflix-net-neutrality/ "Tweet this article"),
-follow Ben [@monkbent](http://twitter.com/monkbent) & get updates
-[@stratechery](http://twitter.com/stratechery) or [by
-email](http://stratechery.com/theme/week-in-review/)*
--->
-
-[translation here]
-
-<!--original
-← [The Nokia X](http://stratechery.com/2014/nokia-x/)
--->
-
-[translation here]
-
-<!--original
-[The Cost of Bitcoin](http://stratechery.com/2014/cost-bitcoin/) →
--->
-
-[translation here]
-
-<!--original
-[![stratēchery](/wp-content/uploads/2013/03/pronunciation-black.png)](http://stratechery.com/2013/strategery/)
--->
-
-[translation here]
-
-<!--original
--   [Written by Ben Thompson](http://stratechery.com/theme/about/)
--   [@monkbent](http://twitter.com/monkbent)
--   [@stratechery](http://twitter.com/stratechery)
--   [RSS](http://stratechery.com/feed/)
--   [Subscribe by email](/theme/week-in-review/)
--->
-
-[translation here]
-
-<!--original
-### Keepers {.widget-title}
--->
-
-[translation here]
-
-<!--original
--   [The iPad: It's For Everyone
-    Else](http://stratechery.com/2010/the-ipad-its-for-everyone-else/)
--   [Apple and the Innovator's
-    Dilemma](http://stratechery.com/2010/apple-innovators-dilemma/)
--   [Apps, People, & Jobs to be
-    Done](http://stratechery.com/2013/apps-people-jobs-to-be-done/)
--   [Two Bears](http://stratechery.com/2013/two-bears/)
--   [The Android
-    Detour](http://stratechery.com/2013/the-android-detour/)
--->
-
-[translation here]
-
-<!--original
-### Recent Articles {.widget-title}
--->
-
-[translation here]
-
-<!--original
--   [The Cost of
-    Bitcoin](http://stratechery.com/2014/cost-bitcoin/ "Permanent link to The Cost of Bitcoin")
--   [Netflix and Net
-    Neutrality](http://stratechery.com/2014/netflix-net-neutrality/ "Permanent link to Netflix and Net Neutrality")
--   [The Social
-    Conglomerate](http://stratechery.com/2014/social-conglomerate/ "Permanent link to The Social Conglomerate")
--   [Messaging: Mobile’s Killer
-    App](http://stratechery.com/2014/messaging-mobiles-killer-app/ "Permanent link to Messaging: Mobile’s Killer App")
--   [Microsoft’s Mobile
-    Muddle](http://stratechery.com/2014/microsofts-mobile-muddle/ "Permanent link to Microsoft’s Mobile Muddle")
--->
-
-[translation here]
-
-<!--original
-### Built on WordPress {.widget-title}
--->
-
-[translation here]
-
-<!--original
-Strategy. Technology. Pronunciation.
--->
-
-[translation here]
-
-<!--original
-© [stratēchery by Ben
-Thompson](http://stratechery.com/ "stratēchery by Ben Thompson") 2014
--->
+[^01]: 価格規制が撤廃されたり無料になったりすると、このモデルの問題点が指摘されるようになります。
