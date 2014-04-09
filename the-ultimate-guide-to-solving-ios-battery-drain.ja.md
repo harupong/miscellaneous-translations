@@ -1,98 +1,33 @@
-[translation here]
 
 <!--original
-% The Ultimate Guide to Solving iOS Battery Drain — Overthought
-% 
-% 
+# [The Ultimate Guide to Solving iOS Battery Drain — Overthought](http://www.overthought.org/blog/2014/the-ultimate-guide-to-solving-ios-battery-drain)
 -->
-
 [translation here]
 
-<!--original
-[![Overthought](//static.squarespace.com/static/51eaef40e4b02a3783856fac/t/52ed15d2e4b0274a477b3868/1396927216314/?format=1500w)](/ "Overthought") {.logo .image}
-==================================================================================================================================================
--->
 
-[translation here]
-
-<!--original
-a blog by Scotty Loveless
--->
-
-[translation here]
-
-<!--original
-My thoughts and musings about life, technology, and it's affect on our
-society.
--->
-
-[translation here]
-
-<!--original
--   [blog](/)
--   [featured](/featured/)
--   [archive](/archives/)
--   [about](/about/)
--   [RSS](http://rss.overthought.org/feedme)
--   []()
--->
-
-[translation here]
-
-<!--original
-Navigation blog featured archive about RSS
--->
-
-[translation here]
-
-<!--original
-[The Ultimate Guide to Solving iOS Battery Drain](/blog/2014/the-ultimate-guide-to-solving-ios-battery-drain) {.entry-title data-content-field="title"}
-=============================================================================================================
--->
-
-[translation here]
-
-<!--original
-[March 27,
-2014](/blog/2014/the-ultimate-guide-to-solving-ios-battery-drain) [by
-Scotty Loveless](/?author=51eaef40e4b02a3783856faa)
--->
-
-[translation here]
 
 <!--original
 *Updated April 7, 2014: added Step 8 to the list.*
 -->
+*Update 2014/4/7: ステップ 8 をリストに追加しました。*
 
-[translation here]
-
-<!--original
-**
--->
-
-[translation here]
 
 <!--original
-Added [Korean
-Translation](http://www.overthought.org/the-ultimate-guide-to-solving-ios-battery-drain-korean/)
-(provided by [Yoon Jiman](http://yoonjiman.net))
+Added [Korean Translation](http://www.overthought.org/the-ultimate-guide-to-solving-ios-battery-drain-korean/) (provided by [Yoon Jiman](http://yoonjiman.net))
 -->
-
-[translation here]
+[韓国語訳](http://www.overthought.org/the-ultimate-guide-to-solving-ios-battery-drain-korean/)を追加しました([Yoon Jiman](http://yoonjiman.net)による翻訳)。
 
 <!--original
 * * * * *
 -->
-
-[translation here]
+-------------------------------
 
 <!--original
 I worked on the Genius Bar for almost two years, and the most difficult
 issue to solve was short battery life. It was extremely difficult to
 pinpoint the exact reason why someone's battery was draining.
 -->
-
-[translation here]
+Apple の Genius Bar で2年ほど働いていましたが、一番大変だったのはバッテリー寿命の問題でした。バッテリーがすぐ無くなってしまう原因の特定は、困難を極めるものでした。。
 
 <!--original
 I made it my mission to discover the specific reasons for iOS battery
@@ -101,8 +36,7 @@ anecdotal evidence I gathered in the hundreds of Genius Bar appointments
 I took during my time as a Genius and iOS technician, as well as testing
 on my personal devices and the devices of my friends.
 -->
-
-[translation here]
+そこで、iOS の「バッテリー持たない問題」の原因を特定することを自分のミッションとしました。このブログ記事は、自ら何年もかけて行った調査、及びApple Store でジーニアスとして、特に iOS 専門家として何百件もの修理対応を Genius Bar で行う過程で収集した証拠、また自分や友人のデバイスを使って行ったテストの産物です。
 
 <!--original
 iOS 7.1 came out recently and brought with it a bevy of design tweaks
@@ -111,7 +45,7 @@ battery life since the update, and many blogs are reporting it as
 fact.^[1](#fn1)^
 -->
 
-[translation here]
+
 
 <!--original
 This is not one of those "Turn off every useful feature of iOS" posts
