@@ -14,7 +14,7 @@ July 10, 2014 • [∞http://www.marco.org/2014/07/10/app-review-should-test-acc
 <!--original
 But the actual issue, buried in the sloppy article, is legitimate:
 -->
-とはいえ、そのひどい記事からは読み取りにくいけど、問題が残っていないわけではない。
+一方、そのひどい記事からは読み取りにくいけれど、問題が残っていないわけではない。
 
 <!--original
 > But when apps don’t work, life can grind to a stop. Jonathan Lyens, a San Francisco city employee, who is legally blind, has a hard time browsing jobs on professional networking site LinkedIn.
@@ -25,13 +25,13 @@ But the actual issue, buried in the sloppy article, is legitimate:
 >
 > But they don’t require accessibility, in contrast to other strictly enforced rules, such as a ban on apps that present crude or objectionable content. Nor do they offer an accessibility rating system, which some disabled advocates say would be a big help.
 -->
-> アプリがうまく使えないと、生活がまわらなくなることもある。Jonathan Lyens さん(サンフランシスコ市に雇われていて、重度の視覚障害認定を受けている)は、職業検索サイト LinkedIn での職探しにとても苦労している。
+> アプリがうまく使えないと、生活がまわらなくなってしまうこともあるです。Jonathan Lyens さん(サンフランシスコ市に雇われていて、重度の視覚障害認定を受けている)は、職業検索サイト LinkedIn での職探しにとても苦労しています。
 
-> 「あのアプリはひどいよ。ボタンがラベル付けされてないから、画面操作がすごく難しい。」Lyensさんによれば、ソーシャルメディアアプリにいたっては新しいバージョンのリリースごとに別の問題が生じるようで、「アップデートボタンを押すとき、いつも不安なきもちになってる。」そうだ。
+> 「あのアプリはひどいよ。ボタンがラベル付けされてないから、画面操作がすごく難しい。」Lyensさんによれば、ソーシャルメディアアプリにいたっては新しいバージョンのリリースごとに別の問題が生じるようで、「アップデートボタンを押すとき、いつも不安なきもちになってる」そうです。
 
-> いまでは、Apple や Google が開発者向けガイドラインでアプリのアクセシビリティを高める方法を示している。ガイドラインには、ボタンにラベル付けをしておけばApple の VoiceOver が読み上げてくれる、などの内容が含まれている。
+> いまでは、Apple や Google が開発者向けガイドラインでアプリのアクセシビリティを高める方法を示しています。ガイドラインには、ボタンにラベル付けをしておけばApple の VoiceOver が読み上げてくれる、などの内容が含まれています。
 
-> けれども、両社ともにアクセシビリティを必須とはしていない。下品なコンテンツを含むアプリを禁止するなどのルールを厳密に課しているにもかかわらず、だ。アクセシビリティの高さを評価する仕組みもない。アクセシビリティ関係者からは、それがあれば大きな違いになるのに、といった声も聞かれる。
+> けれども、両社ともにアクセシビリティを必須とはしていません。一方、下品なコンテンツを含むアプリを禁止するなどのルールを厳密に課しています。アクセシビリティを評価する仕組みもありません。関係者からは、それがあれば大きな違いになるのに、といった意見も出ています。
 
 <!--original
 Apps with standard UIs get most accessibility for free, Apple doesn’t reject apps for inaccessibility, and most customers don’t rely on accessibility tools, so most developers never hear about accessibility problems.
@@ -41,7 +41,7 @@ Apps with standard UIs get most accessibility for free, Apple doesn’t reject a
 <!--original
 In the rush to get apps and updates out the door, it’s easy to forget to test every UI change with VoiceOver. I’ve certainly forgotten many times.
 -->
-アプリのリリース、アップデートの提供を急ぐあまり、UI変更の VoiceOver 対応をテストするとき、変更のいくつかを見過ごしてしまうことはよくある。自分だって、何度も見過ごしてしまったことがある。
+しかも、アプリのリリース、アップデートの提供を急ぐあまり、UI変更の VoiceOver 対応をテストするとき、変更のいくつかを見過ごしてしまうことはよくある。自分だって、何度も見過ごしてしまったことがある。
 
 <!--original
 But while accessibility problems only affect a small percentage of an app’s userbase, their impact can be extremely damaging or fatal to those customers’ ability to use the app.
@@ -56,12 +56,12 @@ Accessibility failures should be *embarrassments* to all developers because they
 <!--original
 I try hard to get accessibility right… when I remember to. My triple-tap home-button shortcut is always mapped to VoiceOver so I can easily test. I include VoiceOver users in betas whenever possible and had an extremely valuable and insightful accessibility review in the WWDC labs this year. But I *still* occasionally ship unlabeled buttons, hidden-view clutter, or inaccessible custom views.
 -->
-アクセシビリティを正しく提供できるよう、努力している...思い出したときには。自分が使うデバイスの「ホームボタン3度押し」ショートカットは、すぐにテストできるよう、いつも VoiceOver に設定してある。VoiceOver の利用者もベータテストに可能な限り入ってもらうようにもしている。今年の WWDC のラボでは、とてもありがたくて思慮に富んだアクセシビリティ関連のレビューを受けることができた。それでも、ラベルなしのボタン、埋もれてしまったビュー、アクセシビリティ機能から参照不可なカスタムビューを**ときどき**リリースしてしまう。
+個人的には、アクセシビリティを正しく提供できるよう努力しているつもりだ(忘れることもあるけれど)。自分が使うデバイスの「ホームボタン3度押し」ショートカットは、すぐにテストできるよう、いつも VoiceOver に設定してある。VoiceOver の利用者もベータテストに可能な限り入ってもらうようにもしている。今年の WWDC のラボでは、思慮に富んだとてもありがたいレビューをアクセシビリティ絡みで受けることができた。それでも、ラベルなしのボタン、埋もれてしまったビュー、アクセシビリティ機能から参照不可なカスタムビューを**ときどき**リリースしてしまう。
 
 <!--original
 Poor or broken accessibility is exactly the sort of problem that Apple’s App Review team *should* check for: many developers forget to test it, it’s easy for Apple to quickly test when reviewing each app, and it’s easy to fix.
 -->
-実装が下手、もしくは用をなさないアクセシビリティ機能こそ、Apple のレビューチームが気をつけるべき問題だ。つまり、開発者の多くはテストするのを忘れるが、レビュー時に一緒にテストしてしまうのは Apple にとっては容易だし、不備の修正も簡単な事だ。
+実装が下手、もしくは用をなさないアクセシビリティ機能こそ、Apple のレビューチームが気をつけるべき問題だ。それは、開発者の多くがテストするのを忘れるが、レビュー時に一緒にテストしてしまうのは Apple にとっては容易だし、不備の修正も簡単だ。
 
 <!--original
 It’s even more clear when considering the customers’ point of view. App Review assures customers of minimum quality and security standards so they feel comfortable buying apps, and [we all benefit](http://www.marco.org/2011/02/04/ode-to-the-app-review-team) from it. The [App Store Review Guidelines](https://developer.apple.com/appstore/resources/approval/guidelines.html) are quite clear on the basics:
@@ -86,7 +86,7 @@ Of course. Customers should know that they’re getting what’s promised.
 <!--original
 But those rules aren’t applied to accessibility. For a customer who uses VoiceOver, rows of unlabeled buttons and inescapable screens are “bugs”, and an app with inaccessible features certainly does not “perform as advertised”.
 -->
-残念なことに、上述のルールはアクセシビリティには当てはまらない。VoiceOver を使ってるお客さんにとって、ラベルなしのボタンや回避不可能な画面は「バグ」に他ならないし、アクセス出来ない機能があるアプリは「謳い文句どおりのアプリ」とは言いがたい。
+上述のルールはアクセシビリティには当てはまらないが、かといって VoiceOver を使ってるお客さんにとっては、ラベルなしのボタンや回避不可能な画面は「バグ」に他ならないし、アクセス出来ない機能があるアプリは「謳い文句どおりのアプリ」とは言いがたい。
 
 <!--original
 This sucks for everyone: Apple, developers, and most of all, customers relying on accessibility aides who unknowingly pick a bad app, can’t do what they need, and now can’t trust the App Store with future purchases.
@@ -96,7 +96,7 @@ This sucks for everyone: Apple, developers, and most of all, customers relying o
 <!--original
 Requiring all apps and games to be completely accessible is probably infeasible. But that’s not the only option. My proposed fix:
 -->
-ゲームを含むすべてのアプリに完璧なアクセシビリティを要求するのはおそらく無理難題だろう。とはいえ、他にもやり方はある。いま、考えているのは
+ただ、ゲームを含むすべてのアプリに完璧なアクセシビリティを要求するのはおそらく無理難題だろう。とはいえ、他にもやり方はある。以下のようにすればいい。
 
 <!--original
 1.  Allow developers to *opt into* accessibility testing for each submission in iTunes Connect. Put it on the screen that asks about cryptography so all developers must answer it and are made aware of it.
@@ -109,8 +109,8 @@ Requiring all apps and games to be completely accessible is probably infeasible.
 3.  If a user has VoiceOver enabled while downloading an app that has *not* been tested for accessibility, or while updating a previously tested app to to an untested version, show a warning dialog and ask them to confirm whether they still want to proceed. This helps them *and* gives developers a good reason to opt into accessibility testing.
 -->
 1. 開発者がアクセシビリティのテストを受けたい場合、アプリを申請する度に iTunes Connect でテストに申し込めるようにする。暗号化関連の画面で申し込めるようにすれば、申し込みの要否を必ず入力することになって、開発者が自覚できる。
-2. App Store のアプリのページにバッジを出す。それはアクセシビリティのテストを通過したことを意味し、お客さんがアプリ購入を検討するときの判断材料になる。
-    テストを通過するには、以下が順守されなければならない。謳われている内容がアクセシビリティを利用してすべてアクセス可能であること。利用可能なコントロールすべてに正確なラベルが付与されていること。回避不可能な画面や画面遷移中の行き止まりといった「UIナビゲーション上の罠」がないこと。
+2. App Store のアプリのページにバッジを出す。それはアクセシビリティのテストを通過したことを意味し、お客さんがアプリ購入を検討するときの判断材料になる。  
+テストを通過するには、以下が順守されなければならない。謳われている内容がアクセシビリティを利用してすべてアクセス可能であること。利用可能なコントロールすべてに正確なラベルが付与されていること。回避不可能な画面や画面遷移中の行き止まりといった「UIナビゲーション上の罠」がないこと。
 3. 利用者が VoiceOver を有効にしている場合、アクセシビリティのテストを受けていないアプリのダウンロードや、テスト済みバージョンから未テストバージョンへのアップデート時に警告を出す。ユーザーは警告を受けて、そのまま続けるか中止するかの意思表示をする。該当者にとっても有意義だし、開発者にとってもアクセシビリティのテストに申し込むいいきっかけになるだろう。
 
 <!--original
